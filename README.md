@@ -2,9 +2,9 @@
 
 ### About
 
-- 🔭 At present, I’m working as a backend developer on [proRMS](https://qualpro.co/?lang=en), a microservices web application based on data processing with asynchronous communication supported by Apache Kafka
+- 🔭 At present, I’m working as a backend developer on [proRMS](https://qualpro.co/?lang=en) - microservices revenue management system for hotels based on external data processing according to basic configuration. Developing mainly in Java and Python.
   
-- 🌱 Current goals: **foreign languages** and **AI** related **technologies**
+- 🌱 Current goals: **foreign languages** and **AI** related **technologies**.
   
 ### Languages
 
